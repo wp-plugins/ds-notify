@@ -1,5 +1,5 @@
 === Plugin Name ===
-Contributors: (this should be a list of wordpress.org userid's)
+Contributors: DScom
 Donate link: http://dscom.it/donate
 Tags: alerts, boxes, frontend, hints, marketing, news, notifications, notify system, popup, positioning, promotion, web notification, whatsapp notification, wordpress, wordpress posts
 Requires at least: 4.x
